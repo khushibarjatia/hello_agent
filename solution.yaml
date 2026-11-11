@@ -3,7 +3,7 @@ kind: Solution
 
 metadata:
   name: hello-greeting-550a1
-  version: 1.0.0
+  version: 2.0.0
   description: An AI agent that greets every user with hello in every conversation.
 
 assets:
