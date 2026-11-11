@@ -5,6 +5,7 @@ type: agent
 metadata:
   name: hello-greeting-agent
   version: 1.0.0
+  description: An AI agent that greets every user with hello at the start of every conversation.
 
 agentCard:
   name: Hello Greeting Agent
